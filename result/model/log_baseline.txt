@@ -1,0 +1,20 @@
+2020-10-20 13:24:54,800 - __main__ - INFO - 【DEV 】Train Epoch 0: train_loss=0.0908, map=0.7119, mrr=0.7831
+2020-10-20 13:24:54,802 - __main__ - INFO - 【TEST】Train Epoch 0: train_loss=0.0908, map=0.7428, mrr=0.8126
+2020-10-20 16:10:37,766 - __main__ - INFO - 【DEV 】Train Epoch 1: train_loss=0.0564, map=0.6988, mrr=0.7815
+2020-10-20 16:10:37,768 - __main__ - INFO - 【TEST】Train Epoch 1: train_loss=0.0564, map=0.7221, mrr=0.8021
+2020-10-20 18:54:45,822 - __main__ - INFO - 【DEV 】Train Epoch 2: train_loss=0.0582, map=0.7323, mrr=0.8130
+2020-10-20 18:54:45,822 - __main__ - INFO - 【TEST】Train Epoch 2: train_loss=0.0582, map=0.7575, mrr=0.8293
+2020-10-21 07:48:43,412 - __main__ - INFO - 【DEV 】Train Epoch 3: train_loss=0.0266, map=0.6695, mrr=0.7639
+2020-10-21 07:48:44,196 - __main__ - INFO - 【TEST】Train Epoch 3: train_loss=0.0266, map=0.6822, mrr=0.7741
+2020-10-22 07:51:50,705 - __main__ - INFO - 【DEV 】Train Epoch 4: train_loss=0.0456, map=0.7227, mrr=0.8039
+2020-10-22 07:51:50,978 - __main__ - INFO - 【TEST】Train Epoch 4: train_loss=0.0456, map=0.7377, mrr=0.8118
+2020-10-22 10:39:39,548 - __main__ - INFO - 【DEV 】Train Epoch 5: train_loss=0.0392, map=0.7198, mrr=0.8021
+2020-10-22 10:39:39,549 - __main__ - INFO - 【TEST】Train Epoch 5: train_loss=0.0392, map=0.7317, mrr=0.8095
+2020-10-22 13:26:38,540 - __main__ - INFO - 【DEV 】Train Epoch 6: train_loss=0.0342, map=0.7178, mrr=0.8070
+2020-10-22 13:26:38,540 - __main__ - INFO - 【TEST】Train Epoch 6: train_loss=0.0342, map=0.7247, mrr=0.8016
+2020-10-26 13:27:46,690 - __main__ - INFO - 【DEV 】Train Epoch 7: train_loss=0.0159, map=0.6573, mrr=0.7556
+2020-10-26 13:27:46,942 - __main__ - INFO - 【TEST】Train Epoch 7: train_loss=0.0159, map=0.6779, mrr=0.7689
+2020-10-26 16:25:28,272 - __main__ - INFO - 【DEV 】Train Epoch 8: train_loss=0.0141, map=0.6579, mrr=0.7496
+2020-10-26 16:25:28,273 - __main__ - INFO - 【TEST】Train Epoch 8: train_loss=0.0141, map=0.6737, mrr=0.7608
+2020-10-26 19:22:40,311 - __main__ - INFO - 【DEV 】Train Epoch 9: train_loss=0.0140, map=0.6518, mrr=0.7466
+2020-10-26 19:22:40,312 - __main__ - INFO - 【TEST】Train Epoch 9: train_loss=0.0140, map=0.6689, mrr=0.7582
